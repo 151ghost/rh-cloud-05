@@ -30,14 +30,14 @@ const projects = (await getCollection('work'))
 		<div class="wrapper stack gap-8 lg:gap-20">
 			<header class="hero">
 				<Hero
-					title="Hello, my name is Jeanine White"
-					tagline="I am a Creative Developer who is currently based in Portland, Oregon."
+					title="Hey! I'm Ryan."
+					tagline="Building the infrastructure of tomorrow, today — I design secure, scalable cloud solutions that empower businesses to innovate, grow, and stay resilient in an ever-evolving digital world."
 					align="start"
 				>
 					<div class="roles">
-						<Pill><Icon icon="code" size="1.33em" /> Developer</Pill>
-						<Pill><Icon icon="microphone-stage" size="1.33em" /> Speaker</Pill>
-						<Pill><Icon icon="pencil-line" size="1.33em" /> Writer</Pill>
+						<Pill><Icon icon="code" size="1.33em" />Cloud Engineer</Pill>
+						<Pill><Icon icon="code" size="1.33em" />Penetration Tester</Pill>
+						<Pill><Icon icon="code" size="1.33em" />Father</Pill>
 					</div>
 				</Hero>
 
@@ -81,17 +81,16 @@ const projects = (await getCollection('work'))
 
 			<section class="section with-background bg-variant">
 				<header class="section-header stack gap-2 lg:gap-4">
-					<h3>Mentions</h3>
+					<h3>What Drives Me</h3>
 					<p>
-						I have been fortunate enough to receive praise for my work in several publications. Take
-						a look below to learn more.
+						I'm driven by the challenge of creating secure, scalable infrastructures that empower businesses to thrive while staying protected from evolving cyber threats. Here's a few things that I love:
 					</p>
 				</header>
 
 				<div class="gallery">
 					<Grid variant="small">
 						{
-							['Medium', 'BuzzFeed', 'The Next Web', 'awwwards.', 'TechCrunch'].map((brand) => (
+							['Building the Foundations of Tomorrow’s Technology', 'Passionate About Securing the Digital World', 'Engineering Resilient Infrastructure', 'Crafting Robust Cloud Solutions for a Safer Future', 'Penetration Testing: Strengthening Systems, Protecting Data'].map((brand) => (
 								<li class="mention-card">
 									<p>{brand}</p>
 								</li>
