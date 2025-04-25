@@ -4,23 +4,28 @@ publishDate: 2019-12-01 00:00:00
 img: /assets/jasper.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  For Jasper AI, I contributed to the development of their frontend using React, ensuring a dynamic, responsive user interface. I collaborated closely with the team to optimize UI performance and styling with Tailwind CSS, delivering an intuitive, high-performance platform that aligned with Jasper AI’s objectives.
+  As an affiliate partner for Jasper AI, I closed over $31,000 in sales in my first month using nothing but cold outreach, sharp positioning, and free value upfront. I built momentum fast by offering free setup sessions and tailored onboarding, converting cold leads into paying subscribers with speed and precision.
 tags:
-  - React
-  - TailwindCSS
-  - Frontend Development
+  - SaaS Sales
+  - High-Ticket Closer
+  - Affiliate Partner
 ---
 
-For Jasper AI, I was part of the team responsible for developing the frontend, focusing on creating a seamless and interactive user interface using React. By collaborating with other team members, I helped ensure that the platform’s design was not only functional but also highly responsive, delivering a superior user experience across devices. This contributed to Jasper AI’s reputation as a cutting-edge AI tool with an intuitive, user-friendly interface.
+When I partnered with Jasper AI, I treated the affiliate role like a closing desk job. No ads. No warm leads. Just cold outreach, smart follow-up, and a direct-to-close approach. In just 30 days, I sold over $31,000 worth of plans and upgrades — not by waiting, but by hunting.
 
-### Frontend Development and UI Optimization
+### Cold Outreach, Free Setups, Fast Closes
 
-I utilized React to build dynamic and responsive UI components that were integrated with the backend to ensure a smooth user experience. Tailwind CSS was used for efficient styling, enabling rapid design iterations while maintaining consistency throughout the platform. This approach allowed us to deliver a highly interactive and intuitive user interface that enhanced the overall user experience.
+I gave every prospect one thing: a **reason to act now**. My pitch combined sharp value propositions with a free setup offer that eliminated friction. Once they saw what Jasper could do — and how fast I could make it work for them — signing up was a no-brainer. I handled onboarding, answered questions before they were asked, and positioned Jasper as a revenue weapon, not a tool.
 
-### Collaborative Cross-Functional Work
+### Built for Marketers, Sold by One
 
-Working closely with UX/UI designers, backend engineers, and product managers, I ensured the frontend seamlessly integrated with backend systems and met user requirements. This teamwork facilitated the development of an optimal user interface, allowing users to interact with complex AI tools in an easy-to-use and intuitive way. My contributions helped deliver a cohesive platform that aligned with Jasper AI’s vision and objectives.
+Jasper AI is built for marketers who move fast. I spoke their language. I showed them how it could crank out content, ad copy, landing pages, and product descriptions at scale. And then I helped them do it — right on the demo call. That’s how you close SaaS without fluff: **show the ROI, eliminate the risk, and close the damn deal**.
 
-### Continuous Performance and Feature Enhancements
+### Results That Demand Attention
 
-In addition to initial development, I played a role in continuously optimizing the frontend’s performance. This included refining the app’s speed and responsiveness, ensuring that users experienced minimal latency when interacting with AI-powered features. I also contributed to feature enhancements and updates, enabling the platform to evolve and meet the needs of an ever-growing user base.
+- **$31,000+** in my first month
+- All cold leads, zero ad spend
+- Free setups led to 3X close rate
+- High conversion from demos to paid upgrades
+
+Working with Jasper proved one thing: when you have a killer product and a closer who knows how to position it, the results follow — fast.

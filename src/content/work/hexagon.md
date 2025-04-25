@@ -4,23 +4,27 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/hexagon.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  For Hexagon Creative, I developed over 200 custom WordPress websites by translating design files into fully functional, optimized themes tailored to client needs. My work involved ongoing site optimization, security implementation, and maintenance to ensure high performance, scalability, and client satisfaction.
+  As a high-ticket closer for Hexagon Creative, I was responsible for bringing in a consistent $25,000+ in monthly deals for their web and branding services — with my top month hitting $217,000 in closed contracts. I handled the full sales process: lead qualification, discovery, pitch, and close — working with speed and precision to land high-value clients and scale Hexagon’s project pipeline.
 tags:
-  - WordPress
-  - PHP
-  - Full Stack Development
+  - High-Ticket Closer
+  - Sales Executive
+  - Cold Outreach
 ---
 
-For Hexagon Creative, I developed over 200 custom WordPress websites for their clients, working closely with the design team to translate design files into fully functional websites. By creating bespoke themes that aligned with the client's design vision and required functionality, I ensured that each website was secure, fast, and optimized for performance.
+I wasn’t hired to chit-chat. I was brought in to close — and I did exactly that. For Hexagon Creative, a Detroit-based web and branding agency, I consistently brought in $25,000+ per month in closed deals. My highest month hit $217,000 in new business.
 
-### Building Custom WordPress Themes
+### Every Lead Qualified. Every Pitch Sharpened. Every Deal Closed.
 
-My role involved building custom WordPress themes based on provided design files, implementing features to match client specifications. I worked extensively with HTML, CSS, PHP, and JavaScript to ensure the themes were fully responsive, well-structured, and optimized for SEO. By integrating essential plugins and customizing their functionality, I ensured that each site met the specific needs of Hexagon Creative's clients.
+I handled the entire sales process: cold to close. Discovery calls, qualifying questions, custom proposals, and high-pressure closes — I made sure no opportunity went soft. Deals ranged from $5K WordPress builds to full-scale $50K brand packages, and I sold every one of them like the rent was due.
 
-### Optimizing and Maintaining Client Websites
+### Selling the Vision, Not Just the Website
 
-In addition to theme development, I regularly optimized and maintained the websites to ensure their speed, security, and scalability. I implemented best practices for WordPress performance, including caching solutions, database optimization, and regular updates for plugins and WordPress core. By monitoring website health, I ensured Hexagon Creative’s clients had secure and high-performing websites with minimal downtime.
+I didn’t just sell web design. I sold clarity, execution, and credibility — all wrapped in the form of a custom WordPress site or full brand identity package. I leaned into business pain points and turned abstract problems into high-value, actionable solutions clients couldn’t walk away from.
 
-### Delivering Tailored Solutions for Client Success
+### Built Different. Born in Detroit.
 
-I was committed to understanding each client’s unique needs, ensuring that the websites I developed reflected their brand and business goals. From custom functionalities to aesthetic refinements, I crafted solutions that provided an intuitive user experience, all while ensuring easy management for the clients through WordPress’s backend. This personalized approach enabled Hexagon Creative to consistently exceed client expectations and maintain long-term relationships.
+What made it even better? Hexagon was homegrown — a fellow Detroit-born agency with hustle in its DNA. We spoke the same language: results, growth, and legacy. Every deal closed wasn’t just money — it was momentum. Together, we pushed projects, profits, and partnerships forward at full speed.
+
+### They Didn’t Need a Sales Rep. They Needed a Closer.
+
+Hexagon Creative needed more than someone to smile on Zoom and send PDFs. They needed a high-pressure, high-performance closer — someone who could turn browsers into buyers, skeptics into believers, and proposals into paid projects. That’s what I delivered. Month after month.
